@@ -1,2 +1,2 @@
 # MATPLOTLIB
-Plotted rideshare data using matplotlib
+Plotted ride share data using matplotlib
